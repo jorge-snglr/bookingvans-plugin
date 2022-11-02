@@ -302,7 +302,7 @@ get_header(); ?>
 										</span>
 
 										<span class="mb-list-item">
-											<?php echo esc_html_x( 'Anwing', 'camper-single', 'mybooking-campers' ) ?>
+											<?php echo esc_html_x( 'Awning', 'camper-single', 'mybooking-campers' ) ?>
 											<?php if ( $camper_details_awning == 'yes' ) {  ?>
 												<span class="dashicons dashicons-yes"></span>
 											<?php } else { ?>
